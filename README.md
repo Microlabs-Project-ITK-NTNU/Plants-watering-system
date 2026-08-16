@@ -24,7 +24,20 @@ It is useful to plot the moisture over time!
 ## Web Development
 Checking the status of your plants over the Web is quite useful. Even on your phone!
 
+## How to take care of a plant
+Resources:
+- https://homesteadbrooklyn.com/all/2017/1/21/growing-plants-indoors-a-beginners-guide
+- https://plantify.co.za/blogs/my-plant-decor/the-houseplant-beginners-guide-8-shortcuts-to-thriving-plants?srsltid=AfmBOoqGx0yyS1AKDgk8X4ud5O-PECSl9FsDWhz07dMcz-kzhIB7I_ci
+
 ## Ideas for improvement
+- Water reservoir level sensor 
 - You choose!
+
+## Inspiration from online Makers
+- EAZYTRONIC https://www.youtube.com/watch?v=bJIriNF0zcA
+- Maker Giovanni https://www.youtube.com/watch?v=uRrnA6kK3FU&t=1s
+- LED Gardener https://www.youtube.com/watch?v=SMWJXIhill8&t=9s
+- GreatScott! https://www.youtube.com/watch?v=iN6j1AbUbYo
+- Practical Engineering https://www.youtube.com/watch?v=O_Q1WKCtWiA
 
 ## FAQ
