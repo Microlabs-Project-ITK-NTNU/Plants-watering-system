@@ -9,7 +9,7 @@ This is an open-source project to promote student-active learning at Department 
 
 ## IDEs
 Integrated development environment (https://github.com/resources/articles/what-is-an-ide)
-- Arduino IDE
+- [Arduino IDE](arduino-resources)
 - Virtual studio code with PlatformIO
 - Annet?
 
