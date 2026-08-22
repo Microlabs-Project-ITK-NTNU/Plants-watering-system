@@ -11,3 +11,5 @@ How-to:
 6. Choose "build" in the PlatformIO tab on the left
 7. Choose "Upload and Monitor"
     - Sometimes you need to press it a few times for it to work
+
+Then you can use Arduino functions: https://docs.arduino.cc/language-reference/en/functions/analog-io/analogRead/
