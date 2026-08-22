@@ -5,7 +5,14 @@ An automatic plants watering system.
 This is an open-source project to promote student-active learning at Department of Engineering Cybernetics (ITK). The idea is that students will be get hands-on experience trying to create an automatic plants watering system, and seeing what improvements they would like to contribute to a basic working system. 
 
 ## Hardware setup
-- Easiest setup
+[Hardware list TTK4225 H26](Theory/Hardware/HW-list-TTK4225-H26.md)
+
+Stuff to consider
+- Should you use the relay or the MOSFET?
+  - How to power the relay?
+- Which moisture sensor? Resistive or capacitive?
+  - How to power the moisture sensor?
+  - How to read the analog input using an ESP32?
 
 ## IDEs
 Integrated development environment (https://github.com/resources/articles/what-is-an-ide)
