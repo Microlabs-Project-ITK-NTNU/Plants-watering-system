@@ -2,8 +2,7 @@
 Microcontoller
 - [Seeit ESP32-DEV-38P](https://no.rs-online.com/web/p/microcontroller-development-tools/2863991)
   - Their datasheet does not give much information. This pinout *should* be correct.
-![image](../Media/Img/Seeit-ESP32-pinout-similar.jpg)
-<img src="../Media/Img/Seeit-ESP32-pinout-similar.jpg" alt="isolated" width="200"/>
+<img src="../Media/Img/Seeit-ESP32-pinout-similar.jpg" alt="isolated" width="600"/>
 
 Relay
 - [Power Relay](https://no.rs-online.com/web/p/power-relays/2826640)
