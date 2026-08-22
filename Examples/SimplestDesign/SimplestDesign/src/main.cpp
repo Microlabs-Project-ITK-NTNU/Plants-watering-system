@@ -20,6 +20,8 @@ void loop() {
   if (val < 2000) {
     // pump vann
     digitalWrite(relayPin, HIGH); // Writes to the relay pin
+  } else if (val >= 2000) {
+    digitalWrite(relayPin, LOW);
   }
 
   delay(200);

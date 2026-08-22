@@ -16,8 +16,8 @@ Stuff to consider
 
 ## IDEs
 Integrated development environment (https://github.com/resources/articles/what-is-an-ide)
-- [Arduino IDE](Theory/IDEs/Arduino-resources.md)
-- Virtual studio code with PlatformIO
+- [Arduino IDE](Theory/IDEs/Arduino-resources.md) (No guide)
+- [Visual studio code with PlatformIO](Theory/IDEs/VSCode-PlatformIO.md) (Has guide)
 - Annet?
 
 ## Example projects
