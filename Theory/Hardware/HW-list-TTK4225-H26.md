@@ -4,8 +4,9 @@ Microcontroller
   - Their datasheet does not give much information. This pinout *should* be correct.
 
 <img src="../Media/Img/Seeit-ESP32-pinout-similar.jpg" alt="isolated" width="600"/>
-()
-ttt
+
+Waveshare (2026) *NodeMCU-32S, ESP32* Tilgjengelig fra: https://www.waveshare.com/NodeMCU-32S.htm (Hentet: 22.08.2026)
+
 Relay
 - [Power Relay](https://no.rs-online.com/web/p/power-relays/2826640)
 
