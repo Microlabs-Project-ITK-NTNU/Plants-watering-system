@@ -4,6 +4,15 @@ An automatic plants watering system.
 ## Student-active learning
 This is an open-source project to promote student-active learning at Department of Engineering Cybernetics (ITK). The idea is that students will be get hands-on experience trying to create an automatic plants watering system, and seeing what improvements they would like to contribute to a basic working system. 
 
+## How to begin
+
+You want a plants watering system. What needs to work for a system like this?
+
+To begin:
+1. You need to be able to detect moisture
+2. You need to be able to control a pump
+3. You should now be able to control the pump using the moisture level
+
 ## Hardware setup
 [Hardware list TTK4225 H26](Theory/Hardware/HW-list-TTK4225-H26.md)
 
@@ -13,6 +22,8 @@ Stuff to consider
 - Which moisture sensor? Resistive or capacitive?
   - How to power the moisture sensor?
   - How to read the analog input using an ESP32?
+- Can an ESP power a pump directly?
+  - Can the ESP safely deliver both enough voltage and enough power?
 
 ## IDEs
 Integrated development environment (https://github.com/resources/articles/what-is-an-ide)
