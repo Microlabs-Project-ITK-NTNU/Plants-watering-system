@@ -38,6 +38,7 @@ Integrated development environment (https://github.com/resources/articles/what-i
 
 ## Plotting
 It is useful to plot the moisture over time!
+[Examples of ways to plot data](https://randomnerdtutorials.com/esp32-how-to-log-data/) (Accessed: 19.09.26)
 
 ## Web Development
 Checking the status of your plants over the Web is quite useful. Even on your phone!
