@@ -18,3 +18,5 @@ Then you can use Arduino functions: https://docs.arduino.cc/language-reference/e
 In Arduino you program in C++. You can use many predefined functions. Programming is convenient and fast. Arduino functions are usually less efficient, but it should not matter for a system like this.
 
 In ESP-IDF you program in C. You program much "closer" to the computer. This is usually more tedious, but the results are more efficient (depending on your personal skills). Many also claim that you achieve a better understanding of how the microcontroller works by working at this level.
+
+[ESP-IDF Programming Guide](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/index.html)
