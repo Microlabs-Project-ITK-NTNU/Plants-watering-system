@@ -39,6 +39,7 @@ Integrated development environment (https://github.com/resources/articles/what-i
 ## Plotting
 It is useful to plot the moisture over time!
 [Examples of ways to plot data](https://randomnerdtutorials.com/esp32-how-to-log-data/) (Accessed: 19.09.26)
+
 [Alternatively using Home Assistant](https://www.home-assistant.io/integrations/esphome/) (Accessed: 21.09.26)
 
 ## Web Development
