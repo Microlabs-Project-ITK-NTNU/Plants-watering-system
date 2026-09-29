@@ -2,10 +2,7 @@
 #include <Arduino.h>  
 #include "esp_http_client.h"
 #include <stdio.h>
-
-#define YOUR_ORG DontUploadThisDataToGitHub
-#define YOUR_BUCKET DontUploadThisDataToGitHub
-#define YOUR_TOKEN PLEASEDontUploadThisDataToGitHub
+#include "src/important_defines.h"
 
 esp_err_t send_moisture_reading(int raw_value, float percent)
 {
