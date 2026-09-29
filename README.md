@@ -55,6 +55,7 @@ Resources:
 - You choose!
 
 ## Inspiration from online Makers
+- Adafruit [Chauncey the Flower Care Bot](https://www.digikey.com/en/maker/projects/chauncey-the-flower-care-bot-with-clue-and-bonsai-buckaroo/36787b9151874ff4a4b83102f7575dd6)
 - EAZYTRONIC https://www.youtube.com/watch?v=bJIriNF0zcA
 - Maker Giovanni https://www.youtube.com/watch?v=uRrnA6kK3FU&t=1s
 - LED Gardener https://www.youtube.com/watch?v=SMWJXIhill8&t=9s
