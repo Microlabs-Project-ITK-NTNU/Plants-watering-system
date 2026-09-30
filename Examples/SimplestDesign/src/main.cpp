@@ -101,6 +101,7 @@ int val = 0;
 
 // Setup runs automatically, when using the Arduino framework
 void setup() {
+  wifi_init_sta();
   Serial.begin(9600); // Baudrate for the serial monitor
   pinMode(relayPin, OUTPUT); // Sets the digital relay pin as output
 }
