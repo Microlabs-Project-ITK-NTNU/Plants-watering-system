@@ -6,7 +6,7 @@ const int analogPin = 36;
 const int relayPin = 32;
 
 // Set threshold for relay activation
-const int threshold = 1000;
+const int threshold = 1600;
 
 // Initialize the value variable outside the loop, to save performance 
 int val = 0;
@@ -22,9 +22,9 @@ void loop() {
   val = analogRead(analogPin); // Reads analog value of sensor, using arduino function for ADC
   Serial.println(val); // Prints the value to the serial monitor
   
-  if (val < threshold) {
+  if (val > threshold) {
     digitalWrite(relayPin, HIGH); // Writes relay pin high, starts pump
-  } else if (val >= threshold) {
+  } else if (val <= threshold) {
     digitalWrite(relayPin, LOW); // Writes relay pin low, stops pump
   }
 
