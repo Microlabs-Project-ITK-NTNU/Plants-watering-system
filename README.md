@@ -40,6 +40,8 @@ Integrated development environment (https://github.com/resources/articles/what-i
 It is useful to plot the moisture over time!
 [Examples of ways to plot data](https://randomnerdtutorials.com/esp32-how-to-log-data/) (Accessed: 19.09.26)
 
+[Alternatively using Home Assistant](https://www.home-assistant.io/integrations/esphome/) (Accessed: 21.09.26)
+
 ## Web Development
 Checking the status of your plants over the Web is quite useful. Even on your phone!
 
@@ -53,6 +55,7 @@ Resources:
 - You choose!
 
 ## Inspiration from online Makers
+- Adafruit [Chauncey the Flower Care Bot](https://www.digikey.com/en/maker/projects/chauncey-the-flower-care-bot-with-clue-and-bonsai-buckaroo/36787b9151874ff4a4b83102f7575dd6)
 - EAZYTRONIC https://www.youtube.com/watch?v=bJIriNF0zcA
 - Maker Giovanni https://www.youtube.com/watch?v=uRrnA6kK3FU&t=1s
 - LED Gardener https://www.youtube.com/watch?v=SMWJXIhill8&t=9s

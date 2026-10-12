@@ -7,6 +7,9 @@ Microcontroller
 
 Waveshare (2026) *NodeMCU-32S, ESP32* Tilgjengelig fra: https://www.waveshare.com/NodeMCU-32S.htm (Hentet: 22.08.2026)
 
+
+When programming using the ESP-IDF, these guides should help: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/stdio.html
+
 Relay
 - [Power Relay](https://no.rs-online.com/web/p/power-relays/2826640)
 
